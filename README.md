@@ -1,6 +1,7 @@
 # exercices.py
 My exercices written in python
 
-## List of exercices
+## :link: List of exercices
 
 [SongLyric.py](https://songlyric.mthcsta.repl.run/)
+[TicTacToe.py](https://tictactoe.mthcsta.repl.run/)
